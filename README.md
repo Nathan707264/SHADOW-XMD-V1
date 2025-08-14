@@ -180,7 +180,17 @@ If you like **SHADØW-XMD-V1**, please consider:
 
 ## 🛠 Installation
 ```bash
-# 1. Clone Repo
+# 1.http# 1. Clone Repo
+git clone https://github.com/FAMOUS-DEV/SHADOW-XMD-V1.git
+
+# 2. Open Folder
+cd SHADOW-XMD-V1
+
+# 3. Install Dependencies
+npm install
+
+# 4. Start Bot
+node index.jss://github.com/FAMOUS-DEV/SHADOW-XMD-V1.git Clone Repo
 git clone https://github.com/FAMOUS-DEV/SHADOW-XMD-V1
 
 # 2. Open Folder
